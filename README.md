@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 `CN` - `中国广东广州`
 
 - ⚡ 我是 `茶礼查理茬哩` ，英文名为 `Charles Chan`
-- 🌱 毕业于 [华南师范大学](https://www.scnu.edu.cn/) 通信工程专业，是一名211全日制本科毕业生
-- 🔭 当前工作为 智慧交通国企 的前端研发工程师
-- 😄 自己尝试玩的一些东西会部署于 [柯基编码](corgicoding.top)
-- 💬 擅长 `JavaScript` / `TypeScript` / `Java` 语言
+- 🌱 [华南师范大学](https://www.scnu.edu.cn/) ，211全日制本科
+- 🔭 擅长前端研发、UI和项目管理
+- 😄 自己尝试玩的一些东西
+- 💬 擅长 `JavaScript` / `TypeScript` / `Rust` 语言
 - 🤔 精通 `Vue2.x` 和 `Vue3.x`, 有过 `Java/Springboot` 和 `NestJS` 开发经验
-- 🚗 其他技能： `Vite` / `Cypress` / `Babel` / `Webpack` / `Eslint` / `VsCode` / `Jest` / `Antv G6` / `Antv X6` / `Echarts` / `NodeJS` / `Office` / `Git` / `Markdown` / `C` / `React`
-- 📫 正在继续努力学习 `Flutter` 和 算法..
+- 🚗 其他技能： `Vite` / `Cypress` / `Eslint` / `VsCode` / `Jest` / `Echarts` / `NodeJS` / `Office` / `Git` / `Markdown` / `Java` / `React`
+- 📫 正在继续努力学习 `Rust` 和 算法..
 
 #### Github 提交状态面板 👇
 
